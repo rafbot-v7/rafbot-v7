@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rafiqkhan8971@gmail.com**
 
-- ⚡ Fun fact **I think I think less**
+- ⚡ Fun fact **I am a liver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
