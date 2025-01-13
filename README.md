@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafbot-v7&show_icons=true&locale=en&layout=compact" alt="rafbot-v7" /></p>
 
-
+![rafbot-v7's Stats](https://github-readme-stats.vercel.app/api?username=rafbot-v7&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafbot-v7&" alt="rafbot-v7" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafbot-v7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
